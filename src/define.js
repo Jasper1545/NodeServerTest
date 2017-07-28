@@ -1,0 +1,9 @@
+var CONNECTION = {
+    INTERVAL : 2000
+}
+exports.CONNECTION = CONNECTION;
+
+var MSGDEF = {
+    TEXT_MSG : 0
+}
+exports.MSGDEF = MSGDEF;
