@@ -1,1 +1,1 @@
-node src/client.js
+node src/client/client.js
